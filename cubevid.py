@@ -4,7 +4,7 @@ import picamera
 import time
 from picamera.array import PiRGBArray
 from picamera import PiCamera
-
+#poznamka
 # set camera
 camera  = PiCamera()
 camera.resolution = (640,480)
