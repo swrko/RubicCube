@@ -1,0 +1,2 @@
+# RubicCube
+Rubic cube solver
